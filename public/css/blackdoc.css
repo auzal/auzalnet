@@ -158,12 +158,12 @@ tbody tr:nth-child(odd) th {
 
 @media (min-width: 48em) {
   html {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 
