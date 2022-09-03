@@ -1,0 +1,66 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h2>
+
+          {{ site.title }}
+
+      </h2>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+    <br>
+
+          {% assign pages_list = site.pages %}
+            {% for node in pages_list %}
+              {% if node.title == "acerca de / about" %}
+                {% if node.layout == "page" %}
+                  <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="index.html">{{ node.title }}</a>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+
+
+      <h4>obra</h4>
+
+      {% assign sorted_pages = site.pages | sort:"order" %}
+        {% for node in sorted_pages %}
+          {% if node.title != null %}
+          {% if node.group == "obra" %}
+            {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url  | remove_first: '/' }}">{{ node.title }}</a>
+            {% endif %}
+          {% endif %}
+          {% endif %}
+          {% endfor %}
+
+        <!--  <h4>comercial</h4> -->
+
+
+          {% assign sorted_pages = site.pages | sort:"order" %}
+            {% for node in sorted_pages %}
+              {% if node.title != null %}
+              {% if node.group == "comercial" %}
+                {% if node.layout == "page" %}
+              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url  | remove_first: '/' }}">{{ node.title }}</a>
+                {% endif %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+
+  <!--    {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url  | remove_first: '/' }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %} -->
+
+
+    </nav>
+
+
+  </div>
+</div>
