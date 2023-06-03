@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>ariel uzal</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2023-01-27T21:53:40-08:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://github.com/karloespiritu/blackdoc/atom.xml" rel="self"/>
+ <link href="https://github.com/karloespiritu/blackdoc/"/>
+ <updated>2023-06-03T14:31:18-07:00</updated>
+ <id>https://github.com/karloespiritu/blackdoc</id>
  <author>
    <name>Ariel Uzal</name>
    <email></email>
