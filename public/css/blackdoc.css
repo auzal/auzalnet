@@ -328,6 +328,18 @@ a.sidebar-nav-item:visited {
   margin-top: 50px;
 }
 
+.process-title,
+.process-title,
+.post-title a {
+  color: #caad00;
+}
+
+.process{
+  text-align: justify;
+  max-width: 700px;
+  margin-top: 50px;
+}
+
 /*
 * Reverse layout
 *
