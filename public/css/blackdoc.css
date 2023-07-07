@@ -336,9 +336,15 @@ a.sidebar-nav-item:visited {
 
 .process{
   text-align: justify;
-  max-width: 700px;
+  max-width: 600px;
   margin-top: 50px;
 }
+
+.process video{
+  max-width: 600px;
+}
+
+
 
 /*
 * Reverse layout
