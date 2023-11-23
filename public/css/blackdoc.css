@@ -32,8 +32,8 @@ html {
 }
 
 body {
-  color: #222;
-  background-color: #f7f7ef;
+  color: #3149ad;
+  background-color: #f8f8f8;
 }
 
 h1,
@@ -44,7 +44,7 @@ h5,
 h6 {
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 400;
-  color: #222;
+  color: #3149ad;
 }
 
 h4{
@@ -53,7 +53,7 @@ h4{
 
 h6{
   font-size: 11px;
-  color: #666;
+  color: #3149ad;
 }
 
 h1 a,
@@ -63,7 +63,7 @@ h4 a,
 h5 a,
 h6 a {
   font-family: 'IBM Plex Mono', monospace;
-  color: #222;
+  color: #3149ad;
   font-weight: 400;
   font-kerning: auto;
   font-feature-settings: "kern", "liga", "dlig", "hlig", "cswh";
@@ -71,15 +71,16 @@ h6 a {
 }
 
 a {
-  color: #222;
-  background-color: #fae1e9;
+  color: #3149ad;
+  background-color: #ececec;
+  
   transition: color ease 0.3s;
 }
 
 a:hover {
-  color: #222;
+  color: #3149ad;
   text-decoration: none;
-  background-color: #ccffcc;
+  background-color: #e3e7f5;
 
 }
 
@@ -107,7 +108,7 @@ a:visited {
 
 strong,
 b {
-  color: #222;
+  color: #3149ad;
 }
 /* Code */
 
@@ -210,7 +211,7 @@ tbody tr:nth-child(odd) th {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255, 255, 255, .5);
-  background-color: #f7f7ef;
+  background-color: #f8f8f8;
   overflow: auto;
 }
 @media (min-width: 48em) {
@@ -226,7 +227,7 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #222;
+  color: #3149ad;
   background-color: transparent;
 }
 
@@ -251,19 +252,19 @@ a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   /*  text-decoration: underline; */
   text-decoration: none;
-  background-color: #fae1e9;
+  background-color: #e3e7f5;
 }
 
 a.sidebar-nav-item:visited {
   /*  text-decoration: underline; */
   text-decoration: none;
-  color: #222;
+  color: #3149ad;
 }
 
 
 .sidebar-nav-item.active {
   /*font-weight: bold;*/
-  background-color: #ccffcc;
+  background-color: #ececec;
   /*  color: #F00;*/
 }
 
