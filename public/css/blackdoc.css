@@ -320,7 +320,7 @@ a.sidebar-nav-item:visited {
 .page-title,
 .post-title,
 .post-title a {
-  color: #caad00;
+  color: #3149ad;
 }
 
 .page{
@@ -346,6 +346,37 @@ a.sidebar-nav-item:visited {
 }
 
 
+.post{
+  text-align: justify;
+  max-width: 670px;
+  margin-top: 50px;
+}
+
+.thumb-page{
+  max-width: 900px;
+
+  margin-top: 50px;
+}
+
+.project-thumb{
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: none;
+  max-width: 400px;
+  display: inline-table;
+}
+
+.project-thumb img{
+  width: 400px;
+  max-height: 200px;
+  object-fit: cover;
+/*   -webkit-filter: grayscale(100%);
+  filter: grayscale(100%); */
+ /* filter: sepia(1) saturate(100%) hue-rotate(180deg);*/
+}
+
+
+/*.post img { filter: sepia(1) saturate(100%) hue-rotate(180deg); */
 
 /*
 * Reverse layout
