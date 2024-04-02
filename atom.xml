@@ -4,13 +4,38 @@
  <title>ariel uzal</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-04-02T00:17:54-07:00</updated>
+ <updated>2024-04-02T11:07:56-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Ariel Uzal</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>saliva lamp</title>
+   <link href="http://localhost:4000/2024/04/01/salivalamp.html"/>
+   <updated>2024-04-01T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2024/04/01/salivalamp</id>
+   <content type="html">&lt;p&gt;design and fabrication of a large controllable led lamp for an upcoming show by &lt;a href=&quot;https://lauren-mccarthy.com/&quot; target=&quot;_blank&quot;&gt;lauren lee mccarthy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/blog-images/salivalamp1.jpg&quot; alt=&quot;image&quot; /&gt; 
+&lt;img src=&quot;/public/images/blog-images/salivalamp2.jpg&quot; alt=&quot;image&quot; /&gt; 
+&lt;img src=&quot;/public/images/blog-images/salivalamp3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>peristaltic pump system</title>
+   <link href="http://localhost:4000/2024/03/25/peristaltic.html"/>
+   <updated>2024-03-25T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2024/03/25/peristaltic</id>
+   <content type="html">&lt;p&gt;electronic system to control the flow of liquid into a series of sculptures by  &lt;a href=&quot;https://brodyalbert.com/&quot; target=&quot;_blank&quot;&gt;brody albert&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/blog-images/peristaltic1.jpg&quot; alt=&quot;image&quot; /&gt; 
+&lt;img src=&quot;/public/images/blog-images/peristaltic2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>electric buzz generator</title>
@@ -21,6 +46,19 @@
 
 &lt;p&gt;&lt;img src=&quot;/public/images/blog-images/noiseamp.jpg&quot; alt=&quot;image&quot; /&gt; 
 &lt;img src=&quot;/public/images/blog-images/noise.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>mala muerte</title>
+   <link href="http://localhost:4000/2023/10/03/torrance.html"/>
+   <updated>2023-10-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2023/10/03/torrance</id>
+   <content type="html">&lt;p&gt;installing my work &lt;a href=&quot;https://auzal.net/una_maquina.html&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;una máquina que sólo puede girar&lt;/em&gt;&lt;/a&gt; at the torrance art museum for the upcoming exhibition &lt;a href=&quot;https://www.torranceartmuseum.com/sur23&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;mala muerte/bad death&lt;/em&gt;&lt;/a&gt;, part of &lt;em&gt;sur biennial 2023&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/blog-images/torrance.jpg&quot; alt=&quot;image&quot; /&gt; 
+&lt;img src=&quot;/public/images/blog-images/torrance2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -36,6 +74,17 @@
 &lt;p&gt;the project was lead by ucla dma faculty &lt;a href=&quot;http://chandlermcwilliams.com/&quot; target=&quot;_blank&quot;&gt;chandler mcwilliams&lt;/a&gt;, &lt;a href=&quot;https://lauren-mccarthy.com/&quot; target=&quot;_blank&quot;&gt;lauren lee mccarthy&lt;/a&gt;, and &lt;a href=&quot;https://reas.com/&quot; target=&quot;_blank&quot;&gt;casey reas&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/public/images/blog-images/mirror.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>emf listeners</title>
+   <link href="http://localhost:4000/2023/07/01/emf.html"/>
+   <updated>2023-07-01T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2023/07/01/emf</id>
+   <content type="html">&lt;p&gt;electromagnetic field listener kits for the students at a workshop taught for ucla &lt;a href=&quot;https://artsci.ucla.edu/&quot; target=&quot;_blank&quot;&gt;art sci&lt;/a&gt;’s summer institute.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/blog-images/emf2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -65,6 +114,17 @@
 &lt;p&gt;more info &lt;a href=&quot;https://games.ucla.edu/resource/controller-workshop-with-ariel-uzal&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/public/images/blog-images/uclaworkshop.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>cartier retail innovation lab</title>
+   <link href="http://localhost:4000/2021/10/14/cartier.html"/>
+   <updated>2021-10-14T00:00:00-07:00</updated>
+   <id>http://localhost:4000/2021/10/14/cartier</id>
+   <content type="html">&lt;p&gt;software development with &lt;a href=&quot;https://greg.technology/&quot; target=&quot;_blank&quot;&gt;greg sadetsky&lt;/a&gt; for an interactive kiosk present in five cartier retail locations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/blog-images/cartier.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
